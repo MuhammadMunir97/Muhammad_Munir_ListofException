@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExceptionTest",
+            "request": "launch",
+            "mainClass": "ExceptionTest",
+            "projectName": "Muhammad_Munir_ListOfExceptions_db275ccb"
+        }
+    ]
+}
